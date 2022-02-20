@@ -4,7 +4,7 @@ My unofficial reimplement of yolop
 
 ## Result
 
-![output.gif](G:\Carla_Recorder\videos\output.gif)
+![output.gif](output.gif)
 
 ## Requirement
 
