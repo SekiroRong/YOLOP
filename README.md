@@ -14,7 +14,7 @@ pip install  requirements.txt
 
 ## Data Preparation
 
-See the Carla-dataset-generator(Constructing at present)
+Refer to Carla-dataset-generator https://github.com/SekiroRong/Carla_dataset_generator
 
 ## Contact
 
