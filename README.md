@@ -16,10 +16,14 @@ pip install  requirements.txt
 
 Refer to Carla-dataset-generator https://github.com/SekiroRong/Carla_dataset_generator
 
+## Pretrained model
+Here:
+https://drive.google.com/file/d/1YOCqUSlYfPFzNKEzXNgLFAPzZoNgVhOO/view
+
 ## Contact
 
 If you think this work is useful, please give me a star!  
-If you find any errors or have any suggestions, please contact me (**Email:** `sekirorong@gmail.com`).  
+If you find any errors or have any suggestions, please contact me (**Email:** `sekirorong@gmail.com`) or in *Issues(Preferred)*
 Thank you!
 
 ## Reference
