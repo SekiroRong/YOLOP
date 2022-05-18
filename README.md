@@ -18,7 +18,7 @@ Refer to Carla-dataset-generator https://github.com/SekiroRong/Carla_dataset_gen
 
 ## Pretrained model
 Here:
-https://drive.google.com/file/d/1YOCqUSlYfPFzNKEzXNgLFAPzZoNgVhOO/view
+[https://drive.google.com/file/d/1YOCqUSlYfPFzNKEzXNgLFAPzZoNgVhOO/view](https://drive.google.com/file/d/1YOCqUSlYfPFzNKEzXNgLFAPzZoNgVhOO/view?usp=sharing)
 
 ## Contact
 
