@@ -1,6 +1,6 @@
 # YOLOP
 
-My unofficial reimplement of yolop
+My unofficial reimplement of yolop：https://github.com/SekiroRong/YOLOP
 
 ## Result
 
