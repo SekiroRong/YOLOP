@@ -9,7 +9,7 @@ My unofficial reimplement of yolop
 ## Requirement
 
 ```
-pip install  requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Data Preparation
