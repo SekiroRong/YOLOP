@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 ## Data Preparation
 
-Refer to Carla-dataset-generator https://github.com/SekiroRong/Carla_dataset_generator
+~~(Deprecated)Refer to Carla-dataset-generator https://github.com/SekiroRong/Carla_dataset_generator~~
 
 ## Pretrained model
 Here:
